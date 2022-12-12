@@ -1,10 +1,10 @@
 const http = require('https');
 const ip_host = '127.0.0.1';
 const port = 8080;
-var cowsay = require('cowsay');
+//var cowsay = require('cowsay');
 const fs = require('fs');
 var path = require('path');
-const yaml = require('js-yaml');
+//const yaml = require('js-yaml');
 const os = require("os");
 
 var scriptName = path.basename(__filename);
